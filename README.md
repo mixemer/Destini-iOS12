@@ -3,6 +3,8 @@
 
 #  Destini
 
+![](Destini-image.png)
+
 ## Our Goal
 
 The goal of this tutorial is to get you comfortable with thinking about the state of your app and updating the Views accordingly. In addition, you will be using logic to control the flow of the program. This is a challenge where you’ll solidify your understanding of IF-ELSE statements and comparison operators.
